@@ -27,7 +27,7 @@ var _app = function () {
 
     this.titleChanger = function (text, delay) {
         text = text ||
-            ['p1rate', 'P1RATE#3976'];
+            ['Nyxil', '...'];
         delay = delay || 2000;
 
         var counter = 0;
