@@ -41,7 +41,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
     $(document).ready(function () {
         var links = [
             {
-                name: 'This is not a costume, its a uniform, its who I am and you will respect it.                     ',
+                name: 'Join Nyxil now.                      Join Nyxil Now.                      Join Nyxil now.                      Join Nyxil Now.                     ',
                 link: ''
             }
         ];
@@ -150,7 +150,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
     };
 
 (function () {
-        $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=f4540df21a2e434fbb6f8ccf0d08b2dc', function (data) {
+        $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=9b55ed62f1424c69940001ba42c8e5a4', function (data) {
 
             writeLine(["Authenticating...", "Granting access to <span style='font-size: 14px; color: #06d;'>[unknown]</span>..."], 30, function () {
 
