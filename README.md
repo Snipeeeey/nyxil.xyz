@@ -1,7 +1,7 @@
 # Nyxil.xyz
 🌹 Website for Nyxil
 
-Preview - https://obnoxious.club/
+Preview - https://nyxil2.netlify.app
 
 ![Made with love in Poland](https://madewithlove.now.sh/de?heart=true)
 
