@@ -41,7 +41,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
     $(document).ready(function () {
         var links = [
             {
-                name: 'This is not a costume, its a uniform, its who I am and you will respect it.                     ',
+                name: 'Join Nyxil now and be part of the community                     ',
                 link: ''
             }
         ];
@@ -169,7 +169,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #F62459'>P1RATE#3976</i>"], 120, 500, function () {
+                    writeLine(["<i style='color: #F62459'>-Nyxil</i>"], 120, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 
