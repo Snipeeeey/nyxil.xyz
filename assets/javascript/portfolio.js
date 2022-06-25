@@ -110,7 +110,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
         img.src = "https://www.rw-designer.com/icon-image/7835-256x256x32.png"; 
         img.width = 64;
         img.height = 64;
-        img.alt = "P1RATE#3976";
+        img.alt = "Nyxil";
         img.style = "position: absolute; left: " + event.pageX + "px; top: " + event.pageY + "px; z-index: 10";
         img.className = "troll" + ( (app.skippedIntro) ? "" : " trollface-light" );
 
@@ -169,7 +169,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #F62459'>P1RATE#3976</i>"], 120, 500, function () {
+                    writeLine(["<i style='color: #F62459'>-Nyxil :)</i>"], 120, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 
