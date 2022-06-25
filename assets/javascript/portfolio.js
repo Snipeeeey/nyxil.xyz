@@ -152,7 +152,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 (function () {
         $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=9b55ed62f1424c69940001ba42c8e5a4', function (data) {
 
-            writeLine(["Authenticating...", "Granting access to <span style='font-size: 14px; color: #06d;'>[unknown]</span>..."], 30, function () {
+            writeLine(["Authenticating...", "Granting access to <span style='font-size: 14px; color: #06d;'>[Nyxil.xyz]</span>..."], 30, function () {
 
                 if (app.skippedIntro)
                 	return;
