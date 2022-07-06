@@ -12,7 +12,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected'];
+  brandDescription = [, 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards', 'undetected', 'free', 'easy to use', 'active updates', 'rewards' 'undetected'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
